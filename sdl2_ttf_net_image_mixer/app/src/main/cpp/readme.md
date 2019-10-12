@@ -1,14 +1,23 @@
-#编译说明
+#缂栬瘧璇存槑
 
-##1.解压SDL2-2.0.10.tar.gz到SDL2-2.0.10目录
-##2.解压SDL2_image-2.0.5.tar.gz到SDL2_image-2.0.5目录，拷贝Android-image.mk到SDL2_image-2.0.5目录下替换Android.mk
-##3.解压SDL2_mixer-2.0.4.tar.gz到SDL2_mixer-2.0.4目录，拷贝Android-mixer.mk到SDL2_mixer-2.0.4目录下替换Android.mk
-##4.解压SDL2_net-2.0.1.tar.gz到SDL2_net-2.0.1目录，拷贝Android-net.mk到SDL2_net-2.0.1目录下替换Android.mk
-##5.解压SDL2_ttf-2.0.15.tar.gz到SDL2_ttf-2.0.15目录，拷贝Android-ttf.mk到SDL2_ttf-2.0.15目录下替换Android.mk
+##1.瑙ｅ帇SDL2-2.0.10.tar.gz鍒癝DL2-2.0.10鐩綍
 
-#最新版本SDL2相关库下载版本地址
+##2.瑙ｅ帇SDL2_image-2.0.5.tar.gz鍒癝DL2_image-2.0.5鐩綍锛屾嫹璐滱ndroid-image.mk鍒癝DL2_image-2.0.5鐩綍涓嬫浛鎹ndroid.mk
+
+##3.瑙ｅ帇SDL2_mixer-2.0.4.tar.gz鍒癝DL2_mixer-2.0.4鐩綍锛屾嫹璐滱ndroid-mixer.mk鍒癝DL2_mixer-2.0.4鐩綍涓嬫浛鎹ndroid.mk
+
+##4.瑙ｅ帇SDL2_net-2.0.1.tar.gz鍒癝DL2_net-2.0.1鐩綍锛屾嫹璐滱ndroid-net.mk鍒癝DL2_net-2.0.1鐩綍涓嬫浛鎹ndroid.mk
+
+##5.瑙ｅ帇SDL2_ttf-2.0.15.tar.gz鍒癝DL2_ttf-2.0.15鐩綍锛屾嫹璐滱ndroid-ttf.mk鍒癝DL2_ttf-2.0.15鐩綍涓嬫浛鎹ndroid.mk
+
+#鏈�鏂扮増鏈琒DL2鐩稿叧搴撲笅杞界増鏈湴鍧�
+
 ##https://www.libsdl.org/release/SDL2-2.0.10.tar.gz
+
 ##https://www.libsdl.org/projects/SDL_image/release/SDL2_image-2.0.5.tar.gz
+
 ##https://www.libsdl.org/projects/SDL_mixer/release/SDL2_mixer-2.0.4.tar.gz
+
 ##https://www.libsdl.org/projects/SDL_net/release/SDL2_net-2.0.1.tar.gz
+
 ##https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-2.0.15.tar.gz
