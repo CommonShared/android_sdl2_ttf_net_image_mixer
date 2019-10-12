@@ -1,0 +1,2 @@
+# android_sdl2_ttf_net_image_mixer
+Android 版本编译SDL2 SDL2_image SDL2_ttf SDL2_net SDL2_mixer动态库工程，可使用AndroidStudio或IntellijDEA进行编译
